@@ -13,6 +13,7 @@ double numSum(double num1, double num2)
 
     double numEnter(double numX, int count)
     {
+    
         std::cout << "Введите число " << count << ": ";
         std::cin >> numX;
 
