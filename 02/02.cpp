@@ -2,6 +2,8 @@
 
 #include <iostream>
 
+#define SUB(a, b) ((a)-(b))
+
 int main()
 {
     setlocale(LC_ALL, "Russian");
