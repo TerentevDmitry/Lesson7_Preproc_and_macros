@@ -50,15 +50,3 @@ double numSum(double num1, double num2)
         std::cout << std::endl << "Не включен #error и не определён #define MODE." << std::endl;
 #endif
     }
-
-
-
-
-
-    
-
-
-
-
-
-
